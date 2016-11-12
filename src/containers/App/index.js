@@ -4,7 +4,7 @@ import BarNav from 'COMPONENTS/BarNav'
 import BarTab from 'COMPONENTS/BarTab'
 // import NavLink from 'COMPONENTS/NavLink'
 
-import styles from './style.scss'
+import styles from './style.less'
 // class App extends Component {
 //   render () {
 //     const pageClassNames = classNames(styles.page, styles.pageCurrent)

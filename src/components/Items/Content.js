@@ -3,7 +3,7 @@ import React, {Component} from 'react'
 // import { shouldComponentUpdate } from 'react-immutable-render-mixin'
 import classNames from 'classnames'
 import isEmpty from 'lodash/isEmpty'
-import styles from './style.scss'
+import styles from './style.less'
 
 class Content extends Component {
   constructor (props) {

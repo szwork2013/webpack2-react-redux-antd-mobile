@@ -14,7 +14,7 @@ import configureStore from './configureStore'
 import routes from 'ROUTES'
 
 // import './assets/scss/variables.scss'
-import './assets/scss/base.scss'
+// import './assets/scss/base.scss'
 
 // `__INITIAL_STATE__` 来自服务器端渲染
 // const initialState = window.__INITIAL_STATE__

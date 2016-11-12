@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 // import PureRenderMixin from 'react-addons-pure-render-mixin'
 // import { shouldComponentUpdate } from 'react-immutable-render-mixin'
-import styles from './style.scss'
+import styles from './style.less'
 
 class SearchBar extends Component {
   constructor (props) {

@@ -1,8 +1,8 @@
 /*
 * @Author: fengyun2
 * @Date:   2016-10-22 00:50:38
- * @Last Modified by: mikey.zhaopeng
- * @Last Modified time: 2016-11-04 20:03:55
+ * @Last Modified by:   fengyun2
+ * @Last Modified time: 2016-11-12 22:23:41
 */
 
 import React, {Component} from 'react'
@@ -12,7 +12,7 @@ import pureRender from 'pure-render-decorator'
 import * as ItemsActions from 'ACTIONS'
 import {bindActionCreators} from 'redux'
 
-import styles from './style.scss'
+import styles from './style.less'
 
 @pureRender
 class Brand extends Component {
