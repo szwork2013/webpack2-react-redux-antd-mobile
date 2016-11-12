@@ -16,7 +16,13 @@
 
 ### 2016/11/12
 
-- 1. 在 `webpack2` 下, `ant-mobile` 引入报错
+- 1. 
+在 `webpack2` 下, `ant-mobile` 引入报错
+
+```sh
+ERROR in ./~/.0.9.8@antd-mobile/lib/button/index.js
+Module not found: Error: Can't resolve 'react-native' in 'D:\test\js\1112\react-redux-antd-mobile\node_modules\.0.9.8@antd-mobile\lib\button'
+```
 
 - 2.
 ~~原因：`Webpack 2.1.0-beta23` 之后的config里不能直接包含自定义配置项
